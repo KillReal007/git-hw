@@ -1,2 +1,2 @@
 Hello# git-hw
-https://github.com/KillReal007/git-hw/commit/0c28351673a0c85079c6e89362aed31655ce9ebc
+https://github.com/KillReal007/git-hw/commit/9925a2e759f9eae6f6188bc532a8fbfc98a04055
